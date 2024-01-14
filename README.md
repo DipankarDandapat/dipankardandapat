@@ -77,7 +77,7 @@ Experienced Software Quality Engineer with a proven track record of ensuring the
 
 ## 📞 Contact Information
 
-- **LinkedIn:**<a href="https://linkedin.com/in/dipankardandapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipankardandapat" height="30" width="40" /></a>
+- **LinkedIn:**<a href="https://linkedin.com/in/dipankardandapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipankardandapat" height="30" width="30" /></a>
 - **Email:** d.dandapat96@gmail.com
 - **Phone:** 9800188406
 
