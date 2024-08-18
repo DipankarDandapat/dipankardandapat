@@ -44,21 +44,67 @@ Experienced Software Quality Engineer with a proven track record of ensuring the
 - ⚙ Conducted performance testing to identify bottlenecks and optimize application performance.
 - 🌱 Provided mentorship and training to junior QA team members, fostering a culture of continuous improvement.
 
-## 🛠 Skills
+## 🛠 Skills & Expertise
 
-- **Testing Tools:** <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a>
-   
-- **Programming Languages:** <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
-- **Automation Frameworks:** ![Page Object Model (POM)](link_to_pom_icon.png) ![Data-Driven Testing](link_to_datadriven_icon.png)
-- **CI/CD:**  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/></a>
-- **Version Control:** <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
-- **DataBase:** <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a>
-- **Agile/Scrum Methodologies**
-- **Excellent Analytical and Problem-Solving Skills**
+### Testing Domains
+- **Manual Testing:** Functional, Regression, Exploratory, User Acceptance Testing (UAT)
+- **Automation Testing:** Web, Mobile, API
+- **Performance Testing:** Load, Stress, Scalability
+- **Security Testing:** Vulnerability Assessment, Penetration Testing
+
+### Testing Tools
+- **Web Automation:** 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/></a>
+  <a href="https://webdriver.io/" target="_blank" rel="noreferrer"><img src="https://webdriver.io/img/logo-webdriver-io.png" alt="webdriverio" width="30" height="30"/></a>
+
+
+- **Mobile Automation:** 
+  <a href="https://appium.io" target="_blank" rel="noreferrer"><img src="" alt="appium" width="30" height="30"/></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></a>
+
+- **API Testing:** 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a>
+  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"><img src="https://rest-assured.io/img/logo-transparent.png" alt="rest-assured" width="30" height="30"/></a>
+
+- **Performance Testing:** 
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="30" height="30"/></a>
+  <a href="https://gatling.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gatling.svg" alt="gatling" width="30" height="30"/></a>
+
+- **Security Testing:** 
+  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_zap.svg" alt="zap" width="30" height="30"/></a>
+  
+
+### Programming Languages
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/></a>
+
+
+### Automation Frameworks
+- Page Object Model (POM)
+- Data-Driven Testing
+- Behavior Driven Development (BDD)
+
+### CI/CD
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="github actions" width="30" height="30"/></a>
+
+
+### Version Control
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
+
+### Database
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/></a>
+
+### Additional Skills
+- Agile/Scrum Methodologies
+- Test Planning and Strategy
+- Defect Lifecycle Management
+- Test Automation Architecture
+- Continuous Testing
+- Excellent Analytical and Problem-Solving Skills
+- Strong Communication and Collaboration
 
 
 ## 🎓 Education
