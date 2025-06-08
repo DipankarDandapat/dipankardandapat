@@ -12,7 +12,7 @@
   
 - 👨‍💻 All of my projects are available at [github](https://github.com/DipankarDandapat)
 
-- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7140014303671132161/)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/posts/dipankardandapat_building-and-understanding-a-powerful-hybrid-ugcPost-7326192460257226753-4lj0?utm_source=share&utm_medium=member_desktop&rcm=ACoAABRrn5IBXsgPPqQw1SZk_SbTxz49Xb-c878)
   
 -  ⚡ Fun fact **I am Funny**
 
