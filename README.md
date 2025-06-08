@@ -1,12 +1,12 @@
 # <h1 align="center">Hi 👋, I'm Dipankar Dandapat</h1>
-<h3 align="center">7+ Years of Building Quality Software</h3>
+<h3 align="center">8+ Years of Building Quality Software</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Building Appium 2.0 Framework**
 
-- 🌱 I’m currently learning **playwright**
+- 🌱 I’m currently learning **Playwright**
 
-- 🤝 I’m looking for help with **playwright**
+- 🤝 I’m looking for help with **Playwright**
 
 - 💬 Ask me about **Manual Testing , Automations Testing with Python**
   
@@ -20,12 +20,12 @@
 
 ## 🌟 Summary
 
-Experienced Software Quality Engineer with a proven track record of ensuring the highest standards of software quality throughout the development lifecycle. With 6 years of hands-on experience, I have successfully implemented and maintained effective testing processes, identified and resolved defects, and collaborated with cross-functional teams to deliver high-quality software products.
+Experienced Software Quality Engineer with a proven track record of ensuring the highest standards of software quality throughout the development lifecycle. With 8+ years of hands-on experience, I have successfully implemented and maintained effective testing processes, identified and resolved defects, and collaborated with cross-functional teams to deliver high-quality software products.
 
 ## 🚀 Professional Experience
 
 ### mPokket Financial Services Private Limited, Bengaluru, IND
-*Senior Software Quality Engineer*  
+*Lead Software Quality Engineer*  
 *August 2020 - Present*
 
 - 🏆 Led the quality assurance efforts for multiple software projects, ensuring adherence to industry standards and best practices.
@@ -55,23 +55,25 @@ Experienced Software Quality Engineer with a proven track record of ensuring the
 ### Testing Tools
 - **Web Automation:** 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/></a>
-  <a href="https://webdriver.io/" target="_blank" rel="noreferrer"><img src="https://webdriver.io/img/logo-webdriver-io.png" alt="webdriverio" width="30" height="30"/></a>
+  <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/playwright/main/packages/web/src/assets/playwright-logo.svg" alt="playwright" width="30" height="30"/></a>
 
 
 - **Mobile Automation:** 
-  <a href="https://appium.io" target="_blank" rel="noreferrer"><img src="" alt="appium" width="30" height="30"/></a>
+  <a href="https://appium.io" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1200/1*kRAO9brrHQNBzPMXIWU7IQ.png" alt="appium" width="30" height="30"/></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></a>
+  
+
 
 - **API Testing:** 
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a>
   <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"><img src="https://rest-assured.io/img/logo-transparent.png" alt="rest-assured" width="30" height="30"/></a>
 
 - **Performance Testing:** 
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="30" height="30"/></a>
-  <a href="https://gatling.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gatling.svg" alt="gatling" width="30" height="30"/></a>
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.edureka.co/blog/content/ver.1554792280/uploads/2019/04/Apache_JMeter.png" alt="jmeter" width="30" height="30"/></a>
+  <a href="[https://gatling.io/](https://locust.io/)" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/1*oldg_V3oCFGTSA9waAa7kg.png" alt="locust" width="30" height="30"/></a>
 
 - **Security Testing:** 
-  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_zap.svg" alt="zap" width="30" height="30"/></a>
+  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://logos.bugcrowdusercontent.com/logos/2376/fdfa/651b17be/051e0245d787d1f71246d515e88a8564_zap256x256-oversize.png" alt="zap" width="30" height="30"/></a>
   
 
 ### Programming Languages
@@ -123,7 +125,7 @@ Experienced Software Quality Engineer with a proven track record of ensuring the
 
 ## 📞 Contact Information
 
-- **LinkedIn:**<a href="https://linkedin.com/in/dipankardandapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipankardandapat" height="30" width="30" /></a>
+- **LinkedIn:**<a href="https://linkedin.com/in/dipankardandapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipankardandapat" height="20" width="20" /></a>
 - **Email:** d.dandapat96@gmail.com
 - **Phone:** 9800188406
 
